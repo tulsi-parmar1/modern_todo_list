@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(9, 1, 30);
+  color: white;
+  /* font-family: Georgia, "Times New Roman", Times, serif; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.strike {
+  text-decoration: line-through;
+}
